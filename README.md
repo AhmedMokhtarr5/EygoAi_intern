@@ -14,7 +14,7 @@ This project demonstrates an automated test using Python and Selenium WebDriver 
 | Selenium WebDriver     | Automates browser actions                             |
 | ChromeDriver           | Interface for controlling Google Chrome via Selenium  |
 | WebDriver Manager      | Manages and installs the correct version of ChromeDriver |
-| OBS Studio (optional)  | Used to record the test execution visually            |
+
 
 ---
 
@@ -25,4 +25,4 @@ This project demonstrates an automated test using Python and Selenium WebDriver 
 2. **Install dependencies** using pip:
    ```bash
    pip install selenium webdriver-manager
-python automate_todo.py
+python test.py
